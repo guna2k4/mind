@@ -1,5 +1,5 @@
 # mind
-explain bot with mindfullness
+AI with mindfullness
 
 pip install streamlit pyttsx3
 pip install streamlit requests
